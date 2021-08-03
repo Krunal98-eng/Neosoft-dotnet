@@ -1,5 +1,6 @@
 ## Version Control System
 - We use VCSs to collaborate as a team of programmars, track changes, do code review and much more...
+- We can document the changes using Version Contol system.
 - This can be of 2 types
 	- Distributed VCS
 		- Github, BitBucket, Gitlab etc...
